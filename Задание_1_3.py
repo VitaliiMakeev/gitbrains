@@ -55,3 +55,19 @@ elif 84 < proc < 91:
     print(f'{proc} процентов')
 elif 94 < proc < 101:
     print(f'{proc} процентов')
+elif 24 < proc < 31:
+    print(f'{proc} процентов')
+elif 34 < proc < 41:
+    print(f'{proc} процентов')
+elif 44 < proc < 51:
+    print(f'{proc} процентов')
+elif 54 < proc < 61:
+    print(f'{proc} процентов')
+elif 64 < proc < 71:
+    print(f'{proc} процентов')
+elif 74 < proc < 81:
+    print(f'{proc} процентов')
+elif 84 < proc < 91:
+    print(f'{proc} процентов')
+elif 94 < proc < 101:
+    print(f'{proc} процентов')
