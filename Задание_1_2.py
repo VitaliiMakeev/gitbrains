@@ -1,4 +1,4 @@
-# Задание 3
+# Задание 2
 
 cube_list = [pow(i, 3) for i in range(1, 1000, 2)]
 sum = 0
